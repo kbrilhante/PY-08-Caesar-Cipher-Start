@@ -1,3 +1,4 @@
+# noinspection SpellCheckingInspection
 characters = list("abcdefghijlmnopqrstuvwxyz")
 
 
