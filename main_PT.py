@@ -1,4 +1,4 @@
-characters = list("abcdefghijlmnopqrstuvwxyz")
+characters = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 
 
 # encrypts the text
